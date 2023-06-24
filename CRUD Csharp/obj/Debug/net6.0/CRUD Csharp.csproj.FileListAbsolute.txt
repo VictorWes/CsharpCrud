@@ -1,0 +1,32 @@
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\CRUD Csharp.exe
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\CRUD Csharp.deps.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\CRUD Csharp.runtimeconfig.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\CRUD Csharp.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\CRUD Csharp.pdb
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.AssemblyInfo.cs
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets\msbuild.CRUD Csharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD Csharp.props
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Csharp.props
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD Csharp.props
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\scopedcss\bundle\CRUD Csharp.styles.css
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.csproj.CopyComplete
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\refint\CRUD Csharp.dll
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.pdb
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\CRUD Csharp.genruntimeconfig.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\CRUD Csharp\CRUD Csharp\obj\Debug\net6.0\ref\CRUD Csharp.dll
