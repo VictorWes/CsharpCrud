@@ -1,3 +1,8 @@
+using CRUD_Csharp.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
+
 namespace CRUD_Csharp
 {
     public class Program
@@ -13,6 +18,10 @@ namespace CRUD_Csharp
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddEntityFrameworkSqlServer()
+                .AddDbContext<SistemaTarefasDB>(
+                options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")
+));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

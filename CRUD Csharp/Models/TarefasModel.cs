@@ -1,6 +1,6 @@
 ﻿namespace CRUD_Csharp.Models
 {
-    public class TarefaModel
+    public class TarefasModel
     {
         public int Id { get; set; }
         public string? Nome { get; set; }

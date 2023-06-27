@@ -21,23 +21,51 @@ namespace CRUD_Csharp.Repositorios
             return  await _dbContext.Usuarios.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public Task<List<UsuarioModel>> BuscatarTodosUsuarios()
+        public async Task<List<UsuarioModel>> BuscatarTodosUsuarios()
         {
-            throw new NotImplementedException();
+            return await _dbContext.Usuarios.ToListAsync();
         }
-        public Task<UsuarioModel> Adicionar(UsuarioModel usuario)
+        public async Task<UsuarioModel> Adicionar(UsuarioModel usuario)
         {
-            throw new NotImplementedException();
+         await _dbContext.Usuarios.AddAsync(usuario);
+            await _dbContext.SaveChangesAsync();
+
+            return usuario;
         }
 
-        public Task<bool> Apagar(int id)
+        public async Task<bool> Apagar(int id)
         {
-            throw new NotImplementedException();
+            UsuarioModel usuarioPorId = await BuscarPorId(id);
+
+            if (usuarioPorId == null)
+            {
+                throw new Exception($"Usuario para o ID: {id} Não foi localizado.");
+            }
+
+            _dbContext.Usuarios.Remove(usuarioPorId);
+           await _dbContext.SaveChangesAsync();
+
+            return true;
+
         }
 
-        public Task<UsuarioModel> Atualizar(UsuarioModel usuario, int id)
+        public async Task<UsuarioModel> Atualizar(UsuarioModel usuario, int id)
         {
-            throw new NotImplementedException();
+            UsuarioModel usuarioPorId = await BuscarPorId(id);
+
+            if (usuarioPorId == null)
+            {
+                throw new Exception($"Usuario para o ID: {id} Não foi localizado.");
+            }
+
+            usuarioPorId.Name = usuario.Name;
+            usuarioPorId.Email = usuario.Email;
+
+            _dbContext.Usuarios.Update(usuarioPorId);
+          await _dbContext.SaveChangesAsync();
+
+            return usuarioPorId;
+
         }
 
 
